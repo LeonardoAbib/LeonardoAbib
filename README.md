@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LeonardoAbib
 - 👀 I’m interested in Software engeneer
 - 🌱 I’m currently learning JAVASCRIPT AND PYTHON
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Leonardoabibandrade0201@gmail.com
 
 <!---
