@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeonardoAbib
-- 👀 I’m interested in Software engeneer
+- 👀 I’m interested in software engineer
 - 🌱 I’m currently learning JAVASCRIPT AND PYTHON
 - 📫 How to reach me Leonardoabibandrade0201@gmail.com
 
